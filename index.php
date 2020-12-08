@@ -15,7 +15,7 @@
             <a href="TML/exo2.php"><li>Exercice 2</li></a>
             <a href="HTML/exo3.php"><li>Exercice 3</li></a>
             <a href="HTML/formulaire1.php"><li>Exercice Formulaire</li></a>
-            <a href="HTML/tavleau1.php"><li>Exercice Tableau</li></a>
+            <a href="HTML/tableau1.php"><li>Exercice Tableau</li></a>
             <a href="TP-FINAL-HTML/"><li>TP FINAL</li></a>
         </ul>
     </div>
