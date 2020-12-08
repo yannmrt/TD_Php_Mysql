@@ -11,11 +11,11 @@
     <div>
         <h2>HTML</h2>
         <ul>TP 1
-            <a href="HTML/exo1.html"><li>Exercice 1</li></a>
-            <a href="TML/exo2.html"><li>Exercice 2</li></a>
-            <a href="HTML/exo3.html"><li>Exercice 3</li></a>
-            <a href="HTML/formulaire1.html"><li>Exercice Formulaire</li></a>
-            <a href="HTML/tavleau1.html"><li>Exercice Tableau</li></a>
+            <a href="HTML/exo1.php"><li>Exercice 1</li></a>
+            <a href="TML/exo2.php"><li>Exercice 2</li></a>
+            <a href="HTML/exo3.php"><li>Exercice 3</li></a>
+            <a href="HTML/formulaire1.php"><li>Exercice Formulaire</li></a>
+            <a href="HTML/tavleau1.php"><li>Exercice Tableau</li></a>
             <a href="TP-FINAL-HTML/"><li>TP FINAL</li></a>
         </ul>
     </div>
@@ -23,9 +23,9 @@
     <div>
         <h2>CSS</h2>
         <ul>TP 1
-            <a href="CSS/exo1.html"><li>Exercice 1</li></a>
-            <a href="CSS/exo2.html"><li>Exercice 2</li></a>
-            <a href="CSS/exo3.html"><li>Exercice 3</li></a>
+            <a href="CSS/exo1.php"><li>Exercice 1</li></a>
+            <a href="CSS/exo2.php"><li>Exercice 2</li></a>
+            <a href="CSS/exo3.php"><li>Exercice 3</li></a>
         </ul>
     </div>
 
