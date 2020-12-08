@@ -8,6 +8,9 @@ for($i=0;$i<=4;$i++) {
     echo '<td>' . $tableau[$i] . '</td>';
 }
 
+include("menu.php");
+
+
 // code source de la page 
 highlight_file(__FILE__);
 ?>

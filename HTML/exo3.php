@@ -6,7 +6,7 @@
     </head>
     <body>
 
-    <?php include('../menu.php'); ?>
+    <?php include('menu.php'); ?>
     
     <div>
         <img src="image.jpg" alt="image" />

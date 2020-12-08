@@ -6,7 +6,7 @@
     </head>
     <body>
 
-    <?php include('../menu.php'); ?>
+    <?php include('menu.php'); ?>
     
         <div><b>Ceci est le texte en gras</b></div>
 

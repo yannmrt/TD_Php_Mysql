@@ -6,7 +6,7 @@
     </head>
     <body>
 
-    <?php include('../menu.php'); ?>
+    <?php include('menu.php'); ?>
 
         
         <h1 align="right">Texte droite</h1>

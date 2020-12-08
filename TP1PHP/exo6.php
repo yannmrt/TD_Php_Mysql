@@ -12,6 +12,8 @@ if(isset($_GET['text'])) {
     }
 }
 
+include("menu.php");
+
 ?>
 <!DOCTYPE html>
 <html>

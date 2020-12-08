@@ -11,6 +11,9 @@ $equation = $B*$B-4*$A*$C;
 echo 'L\'équation est: '.$B.'² - 4 x (' .$A.' x '.$C.') = 0';
 echo '<div>Résultat de l\'équation: ' . $equation.'</div>';
 
+include("menu.php");
+
+
 // code source de la page 
 highlight_file(__FILE__);
 ?>

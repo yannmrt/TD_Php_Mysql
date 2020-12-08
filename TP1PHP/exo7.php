@@ -25,6 +25,8 @@ if(isset($_POST['valider'])) {
     }
 }
 
+include("menu.php");
+
 
 
 ?>

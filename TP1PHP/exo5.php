@@ -12,6 +12,8 @@ if(isset($_POST['valider'])) {
     }
 }
 
+include("menu.php");
+
 ?>
 <!DOCTYPE html>
 <html>

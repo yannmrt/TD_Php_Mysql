@@ -7,7 +7,7 @@
     </head>
     <body>
 
-        <?php include('../menu.php'); ?>
+        <?php include('menu.php'); ?>
 
         <div id="bandeau">Ceci est le bandeau</div>
         <div id="contenu">Ceci est le contenu</div>

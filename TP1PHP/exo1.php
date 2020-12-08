@@ -13,6 +13,8 @@ if(isset($NombreAleatoire)) {
     }
 }
 
+include("menu.php");
+
 // code source de la page 
 highlight_file(__FILE__);
 ?> 

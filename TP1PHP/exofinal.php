@@ -65,6 +65,8 @@ if(isset($_SESSION['username'])) {
 
 }
 
+include("menu.php");
+
 // code source de la page 
 highlight_file(__FILE__); ?>
 <?php echo '<a href="../"><button>Retour en arrière</button></a>'; ?>

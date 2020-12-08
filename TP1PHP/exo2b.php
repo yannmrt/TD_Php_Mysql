@@ -14,6 +14,8 @@ for($i=0;$i<=4;$i++) {
 
 echo '</table></tr>';
 
+include("menu.php");
+
 
 // code source de la page 
 highlight_file(__FILE__);

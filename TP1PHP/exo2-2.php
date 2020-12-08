@@ -33,6 +33,9 @@ for($i=1;$i<=1;$i++) {
 
 echo '</table></tr>';
 
+include("menu.php");
+
+
 // code source de la page 
 highlight_file(__FILE__);
 ?>
